@@ -338,7 +338,7 @@ streamlit run app.py --server.port 8888
 
 ## 👤 作者
 
-- GitHub: [Your Username]
+- GitHub: [Sylus-with-ease]
 - 邮箱: [1368412172@qq.com]
 
 ## 🙏 致谢
@@ -359,3 +359,4 @@ streamlit run app.py --server.port 8888
 **Made with ❤️ by [Sylus]**
 
 **最后更新**: 2026 年 2 月 12 日
+
